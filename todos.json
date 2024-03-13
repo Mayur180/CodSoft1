@@ -1,0 +1,26 @@
+[
+    {
+        "title": "& C:/Users/ADMIN/AppData/Local/Programs/Python/Python312/python.exe \"d:/intership/python intership/TO-DO_App.py\"",
+        "description": "1",
+        "completed": false,
+        "due_date": null
+    },
+    {
+        "title": "go for walk ",
+        "description": "30 min ",
+        "completed": "completed ",
+        "due_date": null
+    },
+    {
+        "title": "send logo",
+        "description": "logo for design",
+        "completed": false,
+        "due_date": null
+    },
+    {
+        "title": "drink water ",
+        "description": "after 30 min ",
+        "completed": "completed ",
+        "due_date": null
+    }
+]
