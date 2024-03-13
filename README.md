@@ -1,10 +1,10 @@
 To-Do List Application
-
 *TO-DO-APP performs on command-line *
+
 This project is a simple command-line To-Do List application that helps users manage and organize their tasks efficiently. The application allows users to add, view, complete, and delete tasks.
 
 Features
-Add tasks to the To-Do List
+Add tasks to the To-Do List 
 View the list of tasks
 Complete tasks
 Delete tasks
